@@ -11,7 +11,7 @@ I have experience both in building distributed systems and microservices and wor
 I've worked with several technologies such as:
 
 - [React](https://reactjs.org/) and [Angular](https://angular.io/) on the frontend.
-- [NodeJS](https://nodejs.org/en/), [Python](https://www.python.org/) and [Golang](https://go.dev/) in the backend.
+- [NodeJS](https://nodejs.org/en/), [Python](https://www.python.org/), [Golang](https://go.dev/) and [Ruby on Rails](https://rubyonrails.org/) in the backend.
 - [Kubernetes](https://kubernetes.io/), [GCloud](https://cloud.google.com/) and [AWS](https://aws.amazon.com/) in the infrastructure side.
 
 ### Open Source
