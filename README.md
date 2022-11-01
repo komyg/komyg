@@ -1,6 +1,6 @@
 ### About Me
 
-I am a full stack software developer with more than 10 years of experience, and I am currently working in [Runa HR](https://runahr.com/mx/home/) as a Tech Lead.
+I am a full stack software developer with more than 10 years of experience, and I am currently working as a Founding Engineer in [Plato](https://www.plato.io/).
 
 More recently, I was CTO of Onyo and contributed to its acquisition by Alelo.
 
