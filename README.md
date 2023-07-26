@@ -1,6 +1,6 @@
 ### About Me
 
-I am a full stack software developer with more than 10 years of experience, and I am currently working as a Founding Engineer in [Plato](https://www.plato.io/).
+I am also a full stack developer, with experience in distributed systems and microservices, and with several technologies such as NodeJS, Typescript, Javascript, Rust, Angular, React, Python, Go,  Ruby on Rails, Kubernetes, Google Cloud and AWS.
 
 More recently, I was CTO of Onyo and contributed to its acquisition by Alelo.
 
