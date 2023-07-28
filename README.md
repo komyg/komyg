@@ -19,8 +19,9 @@ I've worked with several technologies such as:
 I love to make contributions to relevant projects whenever I can. So far, I've contributed with:
 
 - [Typescript](https://github.com/microsoft/TypeScript)
+- [Speedy Web Compiler (SWC)](https://github.com/swc-project/swc)
 - [Babel](https://github.com/babel/babel)
-- [Date FNS](https://github.com/date-fns/date-fns)
+- [date-fns](https://github.com/date-fns/date-fns)
 
 ### Articles
 
