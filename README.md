@@ -3,7 +3,13 @@
 I am a T shaped professional with more than 10 years of experience in both IC and management roles. 
 
 I have been working remotely for startups since 2017, and I was the CTO of Onyo, a Brazilian startup that was acquired by Alelo (the largest HR benefits company in Brazil).
-As a Full Stack Staff Software Engineer, I have with experience with **Artificial Intelligence**, **Distributed Systems**, **Python**, **NodeJS**, **Typescript**, **Javascript**, **Rust**, **Angular**, **React**, **Go**,  **Ruby on Rails**, **Kubernetes**, **Google Cloud**, **AWS** and others.
+
+I have with experience with:
+- **Artificial Intelligence**, **Distributed Systems** and **Microservices**.
+- Backend software development using **NodeJS**, with **Typescript** and **Javascript**, **Rust**, **Python**, **C#**, **Go** and **Ruby on Rails**.
+- Frontend software development using **Typescript**, **Javascript** with **React**, **Angular** and **Electron**.
+- Experience in leading engineering teams using agile methodologies and best practices.
+- Experience with software infrastructure and devops using **Docker**, **Kubernetes**, **Google Cloud** and **AWS**.
 
 ### Open Source
 
