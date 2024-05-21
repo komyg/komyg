@@ -1,22 +1,15 @@
 ### About Me
 
-I am also a full stack developer, with experience in distributed systems and microservices, and with several technologies such as NodeJS, Typescript, Javascript, Rust, Angular, React, Python, Go,  Ruby on Rails, Kubernetes, Google Cloud and AWS.
+I am a T shaped professional with more than 10 years of experience in both IC and management roles. 
 
-More recently, I was CTO of Onyo and contributed to its acquisition by Alelo.
-
-### Experience
-
-I have experience both in building distributed systems and microservices and working with monoliths.
-
-I've worked with several technologies such as:
-
-- [React](https://reactjs.org/) and [Angular](https://angular.io/) on the frontend.
-- [NodeJS](https://nodejs.org/en/), [Python](https://www.python.org/), [Golang](https://go.dev/) and [Ruby on Rails](https://rubyonrails.org/) in the backend.
-- [Kubernetes](https://kubernetes.io/), [GCloud](https://cloud.google.com/) and [AWS](https://aws.amazon.com/) in the infrastructure side.
+I have been working remotely for startups since 2017, and I was the CTO of Onyo, a Brazilian startup that was acquired by Alelo (the largest HR benefits company in Brazil).
+As a Full Stack Staff Software Engineer, I have with experience with **Artificial Intelligence**, **Distributed Systems**, **Python**, **NodeJS**, **Typescript**, **Javascript**, **Rust**, **Angular**, **React**, **Go**,  **Ruby on Rails**, **Kubernetes**, **Google Cloud**, **AWS** and others.
 
 ### Open Source
 
-I love to make contributions to relevant projects whenever I can. So far, I've contributed with:
+I love to make contributions to relevant projects whenever I can.
+
+So far, I've contributed with:
 
 - [Typescript](https://github.com/microsoft/TypeScript)
 - [Speedy Web Compiler (SWC)](https://github.com/swc-project/swc)
