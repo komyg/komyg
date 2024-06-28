@@ -1,14 +1,13 @@
 ### About Me
 
-I am a T shaped professional with more than 10 years of experience in both IC and management roles. 
+I am a software engineer with 10+ years of experience.
 
-I have been working remotely for startups since 2017, and I was the CTO of Onyo, a Brazilian startup that was acquired by Alelo (the largest HR benefits company in Brazil).
+I am passionate about developer tools, and open source.
 
-I have with experience with:
+Tech I have experience with:
 - **Artificial Intelligence**, **Distributed Systems** and **Microservices**.
 - Backend software development using **NodeJS**, with **Typescript** and **Javascript**, **Rust**, **Python**, **C#**, **Go** and **Ruby on Rails**.
 - Frontend software development using **Typescript**, **Javascript** with **React**, **Angular** and **Electron**.
-- Experience in leading engineering teams using agile methodologies and best practices.
 - Experience with software infrastructure and devops using **Docker**, **Kubernetes**, **Google Cloud** and **AWS**.
 
 ### Open Source
@@ -18,6 +17,7 @@ I love to make contributions to relevant projects whenever I can.
 So far, I've contributed with:
 
 - [Typescript](https://github.com/microsoft/TypeScript)
+- [Rolldown](https://github.com/rolldown/rolldown)
 - [Speedy Web Compiler (SWC)](https://github.com/swc-project/swc)
 - [Babel](https://github.com/babel/babel)
 - [date-fns](https://github.com/date-fns/date-fns)
