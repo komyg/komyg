@@ -19,6 +19,7 @@ So far, I've contributed with:
 - [Typescript](https://github.com/microsoft/TypeScript)
 - [Rolldown](https://github.com/rolldown/rolldown)
 - [Speedy Web Compiler (SWC)](https://github.com/swc-project/swc)
+- [Wasp](https://github.com/wasp-lang/wasp)
 - [Babel](https://github.com/babel/babel)
 - [date-fns](https://github.com/date-fns/date-fns)
 
